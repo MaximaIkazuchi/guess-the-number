@@ -1,3 +1,3 @@
 # Guess the Number
-simple command line game built with java\
+simple cli game written in Java\
 eh, just for learning purpose
